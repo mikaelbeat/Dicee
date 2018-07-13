@@ -11,7 +11,7 @@ import android.widget.ImageView;
 import java.util.Random;
 
 public class MainActivity extends AppCompatActivity {
-    
+
     MediaPlayer backgroundMusic;
     MediaPlayer rollButtonSound;
     MediaPlayer doubleNumbers;
